@@ -4,7 +4,7 @@
 Which sectors actually drove the PSX's FY26 rally, and how consistent 
 were the top contributors month over month?
 
-![Dashboard Preview]<img width="1246" height="700" alt="image" src="https://github.com/user-attachments/assets/40acb33e-674f-47da-a413-352c410ab48b" />
+Dashboard Preview<img width="1246" height="700" alt="image" src="https://github.com/user-attachments/assets/40acb33e-674f-47da-a413-352c410ab48b" />
 
 
 ## Data Source
